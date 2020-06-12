@@ -1,0 +1,29 @@
+
+.conta{
+    width:500px;
+    height: 500px;
+    margin: auto;
+    
+    
+}
+
+.inp{
+    border-radius: 4px;
+    border: 1px solid;
+    font-size: small;
+    width:25rem;
+}
+.btnn{
+    height: 2rem ;
+    width: 10rem;
+    font-size: small;
+    margin-left: 20px;
+}
+.bttn{
+    height: 2rem ;
+    width:10rem;
+    font-size: small;
+    margin-left: 20px;
+    
+}
+

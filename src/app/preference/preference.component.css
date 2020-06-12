@@ -1,0 +1,34 @@
+
+.conta{
+    width:500px;
+    height: 500px;
+    margin: auto;
+    
+    
+}
+
+
+
+.btnn{
+    height: 2rem ;
+    width: 10rem;
+    font-size: small;
+    margin-left: 20px;
+}
+.bttn{
+    height: 2rem ;
+    width:10rem;
+    font-size: small;
+    margin-left: 20px;
+    
+}
+.trophy{
+    color: #eee01e;
+    
+   
+}
+.material-icons{
+    font-size: 5rem;
+    margin: auto;
+
+}

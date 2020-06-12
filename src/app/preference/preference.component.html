@@ -1,0 +1,31 @@
+<div class="conta" >
+    <h3>Choose your Preferences :</h3>
+    <BR>
+    <div class="row mb-2">
+        <div class="col-md-6">
+            <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
+                [ngStyle]="{backgroundColor: b1color}" (click)="trophy()">
+                <div class="col p-4 d-flex flex-column position-static">
+                    <span class="material-icons trophy">emoji_events</span>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
+                [ngStyle]="{backgroundColor: b2color}" (click)="prof()">
+                <div class="col p-4 d-flex flex-column position-static">
+                    <span class="material-icons">
+                        person
+                    </span>
+
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+    <button type="button" class="btn btn-primary bttn">PROCEED</button>
+    <button type="button" class="btn btn-secondary bttn" style="margin-left: 3rem ;">CANCEL</button>
+
+</div>
